@@ -16,3 +16,5 @@ gitcreds::gitcreds_get()
 
 # Check the active GitHub account
 gh::gh_whoami()
+
+RRS
